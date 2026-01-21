@@ -50,7 +50,7 @@ const FEATURES = [
     id: 'finlit-chatbot',
     name: 'FinLit ChatBot',
     description: 'Chat with an AI assistant to learn about personal finance, investments, and improve your financial literacy.',
-    url: 'https://finlit5-tld8.vercel.app',
+    url: 'https://finlit5.vercel.app',
     icon: MessageCircle,
     color: 'orange',
     author: 'Anwesha',
