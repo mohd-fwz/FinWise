@@ -60,7 +60,7 @@ const FEATURES = [
     id: 'financial-guide',
     name: 'Financial Guide AI',
     description: 'Get personalized financial guidance and tips powered by AI to make better money decisions.',
-    url: 'https://finel-rosy.vercel.app',
+    url: 'https://fintech-articles-video-delta.vercel.app',
     icon: BookOpen,
     color: 'cyan',
     author: 'Saakshi',
